@@ -34,6 +34,7 @@ A curated repository of resources and tools for Large Language Models.
 > Speech
 
 - [speech-trident](https://github.com/ga642381/speech-trident) ![Stars](https://img.shields.io/github/stars/ga642381/speech-trident)
+- [Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models) ![Stars](https://img.shields.io/github/stars/liusongxiang/Large-Audio-Models)
 
 > Multi-Lingual & Translation
 

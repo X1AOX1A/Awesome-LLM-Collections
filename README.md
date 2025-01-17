@@ -80,6 +80,7 @@ A curated repository of resources and tools for Large Language Models.
 
 - [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) ![Stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry)
 - [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning)
+- [Awesome-LLM-Reasoning-Openai-o1-Survey](https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Stars](https://img.shields.io/github/stars/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey)
 - [ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey)
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)
 

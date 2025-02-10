@@ -23,6 +23,8 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) ![Stars](https://img.shields.io/github/stars/friedrichor/Awesome-Multimodal-Papers)
 - [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) ![Stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml)
 - [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination)
+- [Awesome-Unified-Multimodal](https://github.com/Purshow/Awesome-Unified-Multimodal) ![Stars](https://img.shields.io/github/stars/Purshow/Awesome-Unified-Multimodal)
+- [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models)
 
 > Time-Series
 

@@ -86,6 +86,7 @@ A curated repository of resources and tools for Large Language Models.
 - [awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning) ![Commit](https://img.shields.io/github/last-commit/modelscope/awesome-deep-reasoning) ![Stars](https://img.shields.io/github/stars/modelscope/awesome-deep-reasoning)
 - [ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/ICSFSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey)
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)
+- [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
 
 # Efficient LLMs
 

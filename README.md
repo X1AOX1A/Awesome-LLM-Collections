@@ -57,6 +57,11 @@ A curated repository of resources and tools for Large Language Models.
 - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) ![Commit](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List) ![Stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)
 - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)
 
+> Diffusion
+
+- [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) ![Commit](https://img.shields.io/github/last-commit/wangkai930418/awesome-diffusion-categorized) ![Stars](https://img.shields.io/github/stars/wangkai930418/awesome-diffusion-categorized)
+- [Awesome-Diffusion-Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers/) ![Commit](https://img.shields.io/github/last-commit/ShoufaChen/Awesome-Diffusion-Transformers) ![Stars](https://img.shields.io/github/stars/ShoufaChen/Awesome-Diffusion-Transformers)
+
 # Data
 
 - [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ![Commit](https://img.shields.io/github/last-commit/yaodongC/awesome-instruction-dataset) ![Stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset)

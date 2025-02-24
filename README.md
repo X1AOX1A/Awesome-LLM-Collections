@@ -101,6 +101,7 @@ A curated repository of resources and tools for Large Language Models.
 
 > Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)
+- [Awesome-Inference-Time-Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) ![Commit](https://img.shields.io/github/last-commit/ThreeSR/Awesome-Inference-Time-Scaling) ![Stars](https://img.shields.io/github/stars/ThreeSR/Awesome-Inference-Time-Scaling)
 - [ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/ICSFSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey)
 
 # Efficient LLMs

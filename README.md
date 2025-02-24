@@ -83,15 +83,25 @@ A curated repository of resources and tools for Large Language Models.
 
 - [Awesome-LLM-Preference-Learning](https://github.com/KbsdJames/Awesome-LLM-Preference-Learning) ![Commit](https://img.shields.io/github/last-commit/KbsdJames/Awesome-LLM-Preference-Learning) ![Stars](https://img.shields.io/github/stars/KbsdJames/Awesome-LLM-Preference-Learning)
 
-# Decoding & Reasoning
+# Decoding
 
+- [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
+
+# Reasoning
+
+> O1
+- [Awesome-LLM-Reasoning-Openai-o1-Survey](https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Commit](https://img.shields.io/github/last-commit/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Stars](https://img.shields.io/github/stars/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey)
 - [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) ![Commit](https://img.shields.io/github/last-commit/hijkzzz/Awesome-LLM-Strawberry) ![Stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry)
 - [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/atfortes/Awesome-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning)
-- [Awesome-LLM-Reasoning-Openai-o1-Survey](https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Commit](https://img.shields.io/github/last-commit/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Stars](https://img.shields.io/github/stars/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey)
+
+> R1
 - [awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning) ![Commit](https://img.shields.io/github/last-commit/modelscope/awesome-deep-reasoning) ![Stars](https://img.shields.io/github/stars/modelscope/awesome-deep-reasoning)
-- [ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/ICSFSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey)
+- [Awesome-RL-based-LLM-Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/bruno686/Awesome-RL-based-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning)
+- [Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Commit](https://img.shields.io/github/last-commit/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Stars](https://img.shields.io/github/stars/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
+
+> Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)
-- [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
+- [ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/ICSFSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey)
 
 # Efficient LLMs
 

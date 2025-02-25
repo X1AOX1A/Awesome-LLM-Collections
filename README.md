@@ -11,7 +11,7 @@ A curated repository of resources and tools for Large Language Models.
 
 > LLMs
 
-- [Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM) ![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM) ![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM)
 
 > Multi-Modal
 
@@ -25,6 +25,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination)
 - [Awesome-Unified-Multimodal](https://github.com/Purshow/Awesome-Unified-Multimodal) ![Commit](https://img.shields.io/github/last-commit/Purshow/Awesome-Unified-Multimodal) ![Stars](https://img.shields.io/github/stars/Purshow/Awesome-Unified-Multimodal)
 - [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models)
+- [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
 
 > Time-Series
 

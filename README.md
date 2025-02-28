@@ -107,6 +107,9 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Inference-Time-Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) ![Commit](https://img.shields.io/github/last-commit/ThreeSR/Awesome-Inference-Time-Scaling) ![Stars](https://img.shields.io/github/stars/ThreeSR/Awesome-Inference-Time-Scaling)
 - [ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/ICSFSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey)
 
+> Else
+- [Awesome-Code-Reasoning](https://github.com/dayuyang1999/Awesome-Code-Reasoning) ![Commit](https://img.shields.io/github/last-commit/dayuyang1999/Awesome-Code-Reasoning) ![Stars](https://img.shields.io/github/stars/dayuyang1999/Awesome-Code-Reasoning)
+
 # Efficient LLMs
 
 - [Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) ![Commit](https://img.shields.io/github/last-commit/AIoT-MLSys-Lab/Efficient-LLMs-Survey) ![Stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey)

@@ -84,6 +84,11 @@ A curated repository of resources and tools for Large Language Models.
 
 - [Awesome-LLM-Preference-Learning](https://github.com/KbsdJames/Awesome-LLM-Preference-Learning) ![Commit](https://img.shields.io/github/last-commit/KbsdJames/Awesome-LLM-Preference-Learning) ![Stars](https://img.shields.io/github/stars/KbsdJames/Awesome-LLM-Preference-Learning)
 
+> Post Training
+
+- [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) ![Commit](https://img.shields.io/github/last-commit/mbzuai-oryx/Awesome-LLM-Post-training) ![Stars](https://img.shields.io/github/stars/mbzuai-oryx/Awesome-LLM-Post-training)
+
+
 # Decoding
 
 - [CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/CTGSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/CTGSurvey)

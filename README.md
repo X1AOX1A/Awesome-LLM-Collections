@@ -11,6 +11,7 @@ A curated repository of resources and tools for Large Language Models.
 
 > LLMs
 
+- [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ![Commit](https://img.shields.io/github/last-commit/RUCAIBox/LLMSurvey) ![Stars](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM) ![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM)
 
 > Multi-Modal

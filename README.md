@@ -103,6 +103,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) ![Commit](https://img.shields.io/github/last-commit/hijkzzz/Awesome-LLM-Strawberry) ![Stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry)
 - [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/atfortes/Awesome-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning)
 - [Awesome-System2-Reasoning-LLM](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ![Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-System2-Reasoning-LLM) ![Stars](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM)
+- [Awesome-Long-Chain-of-Thought-Reasoning](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
 
 > R1
 - [awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning) ![Commit](https://img.shields.io/github/last-commit/modelscope/awesome-deep-reasoning) ![Stars](https://img.shields.io/github/stars/modelscope/awesome-deep-reasoning)

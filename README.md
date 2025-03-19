@@ -97,15 +97,14 @@ A curated repository of resources and tools for Large Language Models.
 
 # Reasoning
 
-> O1
+> CoT / O1 / R1
+- [Awesome-Long-Chain-of-Thought-Reasoning](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
+- [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT) ![Commit](https://img.shields.io/github/last-commit/yaotingwangofficial/Awesome-MCoT) ![Stars](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT)
 - [awesome-o1](https://github.com/srush/awesome-o1) ![Commit](https://img.shields.io/github/last-commit/srush/awesome-o1) ![Stars](https://img.shields.io/github/stars/srush/awesome-o1)
 - [Awesome-LLM-Reasoning-Openai-o1-Survey](https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Commit](https://img.shields.io/github/last-commit/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey) ![Stars](https://img.shields.io/github/stars/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey)
 - [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) ![Commit](https://img.shields.io/github/last-commit/hijkzzz/Awesome-LLM-Strawberry) ![Stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry)
 - [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/atfortes/Awesome-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning)
 - [Awesome-System2-Reasoning-LLM](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ![Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-System2-Reasoning-LLM) ![Stars](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM)
-- [Awesome-Long-Chain-of-Thought-Reasoning](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
-
-> R1
 - [awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning) ![Commit](https://img.shields.io/github/last-commit/modelscope/awesome-deep-reasoning) ![Stars](https://img.shields.io/github/stars/modelscope/awesome-deep-reasoning)
 - [Awesome-RL-based-LLM-Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/bruno686/Awesome-RL-based-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning)
 - [Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Commit](https://img.shields.io/github/last-commit/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Stars](https://img.shields.io/github/stars/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)

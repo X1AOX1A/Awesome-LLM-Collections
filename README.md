@@ -94,6 +94,7 @@ A curated repository of resources and tools for Large Language Models.
 
 - [CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/CTGSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/CTGSurvey)
 - [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
+- [awesome-activation-engineering](https://github.com/Zfancy/awesome-activation-engineering) ![Commit](https://img.shields.io/github/last-commit/Zfancy/awesome-activation-engineering) ![Stars](https://img.shields.io/github/stars/Zfancy/awesome-activation-engineering)
 
 # Reasoning
 

@@ -122,7 +122,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning) ![Commit](https://img.shields.io/github/last-commit/hemingkx/Awesome-Efficient-Reasoning) ![Stars](https://img.shields.io/github/stars/hemingkx/Awesome-Efficient-Reasoning)
 - [Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs) ![Commit](https://img.shields.io/github/last-commit/Hongcheng-Gao/Awesome-Long2short-on-LRMs) ![Stars](https://img.shields.io/github/stars/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
 - [awesome-llm-reasoning-long2short-papers](https://github.com/yzhangchuck/awesome-llm-reasoning-long2short-papers) ![Commit](https://img.shields.io/github/last-commit/yzhangchuck/awesome-llm-reasoning-long2short-papers) ![Stars](https://img.shields.io/github/stars/yzhangchuck/awesome-llm-reasoning-long2short-papers)
-- [Blueyee/Efficient-CoT-LRMs](https://github.com/Blueyee/Efficient-CoT-LRMs) ![Commit](https://img.shields.io/github/last-commit/Blueyee/Efficient-CoT-LRMs) ![Stars](https://img.shields.io/github/stars/Blueyee/Efficient-CoT-LRMs)
+- [Efficient-CoT-LRMs](https://github.com/Blueyee/Efficient-CoT-LRMs) ![Commit](https://img.shields.io/github/last-commit/Blueyee/Efficient-CoT-LRMs) ![Stars](https://img.shields.io/github/stars/Blueyee/Efficient-CoT-LRMs)
 - [Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT) ![Commit](https://img.shields.io/github/last-commit/EIT-NLP/Awesome-Latent-CoT) ![Stars](https://img.shields.io/github/stars/EIT-NLP/Awesome-Latent-CoT)
 
 # Efficient LLMs

@@ -110,6 +110,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-RL-based-LLM-Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/bruno686/Awesome-RL-based-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning)
 - [Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Commit](https://img.shields.io/github/last-commit/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Stars](https://img.shields.io/github/stars/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
 - [Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) ![Commit](https://img.shields.io/github/last-commit/Eclipsess/Awesome-Efficient-Reasoning-LLMs) ![Stars](https://img.shields.io/github/stars/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+- [Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) ![Commit](https://img.shields.io/github/last-commit/XiaoYee/Awesome_Efficient_LRM_Reasoning) ![Stars](https://img.shields.io/github/stars/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 
 > Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)
@@ -129,6 +130,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Commit](https://img.shields.io/github/last-commit/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Stars](https://img.shields.io/github/stars/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 - [Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) ![Commit](https://img.shields.io/github/last-commit/Eclipsess/Awesome-Efficient-Reasoning-LLMs) ![Stars](https://img.shields.io/github/stars/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
+- [Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) ![Commit](https://img.shields.io/github/last-commit/XiaoYee/Awesome_Efficient_LRM_Reasoning) ![Stars](https://img.shields.io/github/stars/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 
 # Miscellaneous
 

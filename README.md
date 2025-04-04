@@ -125,6 +125,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Efficient-CoT-LRMs](https://github.com/Blueyee/Efficient-CoT-LRMs) ![Commit](https://img.shields.io/github/last-commit/Blueyee/Efficient-CoT-LRMs) ![Stars](https://img.shields.io/github/stars/Blueyee/Efficient-CoT-LRMs)
 - [Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT) ![Commit](https://img.shields.io/github/last-commit/EIT-NLP/Awesome-Latent-CoT) ![Stars](https://img.shields.io/github/stars/EIT-NLP/Awesome-Latent-CoT)
 - [Awesome-Reasoning-Economy-Papers](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers) ![Commit](https://img.shields.io/github/last-commit/DevoAllen/Awesome-Reasoning-Economy-Papers) ![Stars](https://img.shields.io/github/stars/DevoAllen/Awesome-Reasoning-Economy-Papers)
+- [Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs) ![Commit](https://img.shields.io/github/last-commit/yueliu1999/Awesome-Efficient-Inference-for-LRMs) ![Stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
 
 # Efficient LLMs
 

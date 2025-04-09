@@ -27,6 +27,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Unified-Multimodal](https://github.com/Purshow/Awesome-Unified-Multimodal) ![Commit](https://img.shields.io/github/last-commit/Purshow/Awesome-Unified-Multimodal) ![Stars](https://img.shields.io/github/stars/Purshow/Awesome-Unified-Multimodal)
 - [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models)
 - [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
+- [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey) ![Commit](https://img.shields.io/github/last-commit/llm-lab-org/Multimodal-RAG-Survey) ![Stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey)
 
 > Time-Series
 

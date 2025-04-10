@@ -99,7 +99,7 @@ A curated repository of resources and tools for Large Language Models.
 
 # Reasoning
 
-> CoT / O1 / R1
+> CoT / RFT
 - [Awesome-Long-Chain-of-Thought-Reasoning](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ![Stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
 - [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT) ![Commit](https://img.shields.io/github/last-commit/yaotingwangofficial/Awesome-MCoT) ![Stars](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT)
 - [awesome-o1](https://github.com/srush/awesome-o1) ![Commit](https://img.shields.io/github/last-commit/srush/awesome-o1) ![Stars](https://img.shields.io/github/stars/srush/awesome-o1)
@@ -111,6 +111,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-RL-based-LLM-Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) ![Commit](https://img.shields.io/github/last-commit/bruno686/Awesome-RL-based-LLM-Reasoning) ![Stars](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning)
 - [Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Commit](https://img.shields.io/github/last-commit/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Stars](https://img.shields.io/github/stars/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
 - [Awesome-Code-Reasoning](https://github.com/dayuyang1999/Awesome-Code-Reasoning) ![Commit](https://img.shields.io/github/last-commit/dayuyang1999/Awesome-Code-Reasoning) ![Stars](https://img.shields.io/github/stars/dayuyang1999/Awesome-Code-Reasoning)
+- [Awesome-RL-Reasoning-Recipes](https://github.com/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![Commit](https://img.shields.io/github/last-commit/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![Stars](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-Reasoning-Recipes)
 
 > Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)

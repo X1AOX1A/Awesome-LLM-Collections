@@ -139,6 +139,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-KV-Cache-Compression](https://github.com/October2001/Awesome-KV-Cache-Compression) ![Commit](https://img.shields.io/github/last-commit/October2001/Awesome-KV-Cache-Compression) ![Stars](https://img.shields.io/github/stars/October2001/Awesome-KV-Cache-Compression)
 - [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Commit](https://img.shields.io/github/last-commit/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Stars](https://img.shields.io/github/stars/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
+- [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/awesome-efficient-reasoning-models) ![Commit](https://img.shields.io/github/last-commit/fscdc/awesome-efficient-reasoning-models) ![Stars](https://img.shields.io/github/stars/fscdc/awesome-efficient-reasoning-models)
 
 # Miscellaneous
 

@@ -113,6 +113,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Commit](https://img.shields.io/github/last-commit/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) ![Stars](https://img.shields.io/github/stars/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
 - [Awesome-Code-Reasoning](https://github.com/dayuyang1999/Awesome-Code-Reasoning) ![Commit](https://img.shields.io/github/last-commit/dayuyang1999/Awesome-Code-Reasoning) ![Stars](https://img.shields.io/github/stars/dayuyang1999/Awesome-Code-Reasoning)
 - [Awesome-RL-Reasoning-Recipes](https://github.com/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![Commit](https://img.shields.io/github/last-commit/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![Stars](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-Reasoning-Recipes)
+- [awesome-reward-models](https://github.com/JLZhong23/awesome-reward-models) ![Commit](https://img.shields.io/github/last-commit/JLZhong23/awesome-reward-models) ![Stars](https://img.shields.io/github/stars/JLZhong23/awesome-reward-models)
 
 > Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)
@@ -140,6 +141,20 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Commit](https://img.shields.io/github/last-commit/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Stars](https://img.shields.io/github/stars/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
 - [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/awesome-efficient-reasoning-models) ![Commit](https://img.shields.io/github/last-commit/fscdc/awesome-efficient-reasoning-models) ![Stars](https://img.shields.io/github/stars/fscdc/awesome-efficient-reasoning-models)
+  
+# Agents
+
+> Scientific Agents
+- [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)
+- [LLM4ScientificResearch](https://github.com/du-nlp-lab/LLM4SR) ![Commit](https://img.shields.io/github/last-commit/du-nlp-lab/LLM4SR) ![Stars](https://img.shields.io/github/stars/du-nlp-lab/LLM4SR)
+- [Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) ![Commit](https://img.shields.io/github/last-commit/openags/Awesome-AI-Scientist-Papers) ![Stars](https://img.shields.io/github/stars/openags/Awesome-AI-Scientist-Papers)
+
+> Memory
+- [Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Commit](https://img.shields.io/github/last-commit/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/Survey_Memory_in_AI)
+
+> Prompts
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks) ![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks)
 
 # Miscellaneous
 
@@ -148,12 +163,8 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) ![Commit](https://img.shields.io/github/last-commit/huytransformer/Awesome-Out-Of-Distribution-Detection) ![Stars](https://img.shields.io/github/stars/huytransformer/Awesome-Out-Of-Distribution-Detection)
 - [Awesome-OOD-VLM](https://github.com/AtsuMiyai/Awesome-OOD-VLM) ![Commit](https://img.shields.io/github/last-commit/AtsuMiyai/Awesome-OOD-VLM) ![Stars](https://img.shields.io/github/stars/AtsuMiyai/Awesome-OOD-VLM)
 - [Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) ![Commit](https://img.shields.io/github/last-commit/CSHaitao/Awesome-LLMs-as-Judges) ![Stars](https://img.shields.io/github/stars/CSHaitao/Awesome-LLMs-as-Judges)
-- [awesome-reward-models](https://github.com/JLZhong23/awesome-reward-models) ![Commit](https://img.shields.io/github/last-commit/JLZhong23/awesome-reward-models) ![Stars](https://img.shields.io/github/stars/JLZhong23/awesome-reward-models)
 - [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) ![Commit](https://img.shields.io/github/last-commit/yueliu1999/Awesome-Jailbreak-on-LLMs) ![Stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs)
 - [hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) ![Commit](https://img.shields.io/github/last-commit/vectara/hallucination-leaderboard) ![Stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard)
 - [LM-Polygraph: Uncertainty estimation for LLMs](https://github.com/IINemo/lm-polygraph) ![Commit](https://img.shields.io/github/last-commit/IINemo/lm-polygraph) ![Stars](https://img.shields.io/github/stars/IINemo/lm-polygraph)
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)
-- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks) ![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks)
-- [Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Commit](https://img.shields.io/github/last-commit/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/Survey_Memory_in_AI)
-- [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)
-- [LLM4ScientificResearch](https://github.com/du-nlp-lab/LLM4SR) ![Commit](https://img.shields.io/github/last-commit/du-nlp-lab/LLM4SR) ![Stars](https://img.shields.io/github/stars/du-nlp-lab/LLM4SR)
+
+

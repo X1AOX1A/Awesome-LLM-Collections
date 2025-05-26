@@ -56,11 +56,6 @@ A curated repository of resources and tools for Large Language Models.
 
 - [Awesome-LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math) ![Commit](https://img.shields.io/github/last-commit/tongyx361/Awesome-LLM4Math) ![Stars](https://img.shields.io/github/stars/tongyx361/Awesome-LLM4Math)
 
-> Agent
-
-- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) ![Commit](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List) ![Stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)
-- [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)
-
 > Diffusion
 
 - [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) ![Commit](https://img.shields.io/github/last-commit/wangkai930418/awesome-diffusion-categorized) ![Stars](https://img.shields.io/github/stars/wangkai930418/awesome-diffusion-categorized)
@@ -143,6 +138,10 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/awesome-efficient-reasoning-models) ![Commit](https://img.shields.io/github/last-commit/fscdc/awesome-efficient-reasoning-models) ![Stars](https://img.shields.io/github/stars/fscdc/awesome-efficient-reasoning-models)
   
 # Agents
+
+> Agents
+- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) ![Commit](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List) ![Stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)
+- [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)
 
 > Scientific Agents
 - [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)

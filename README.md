@@ -128,14 +128,24 @@ A curated repository of resources and tools for Large Language Models.
 
 # Efficient LLMs
 
+> Survey
 - [Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) ![Commit](https://img.shields.io/github/last-commit/AIoT-MLSys-Lab/Efficient-LLMs-Survey) ![Stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+- [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) ![Commit](https://img.shields.io/github/last-commit/horseee/Awesome-Efficient-LLM) ![Stars](https://img.shields.io/github/stars/horseee/Awesome-Efficient-LLM)
+- [Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) ![Commit](https://img.shields.io/github/last-commit/NexaAI/Awesome-LLMs-on-device) ![Stars](https://img.shields.io/github/stars/NexaAI/Awesome-LLMs-on-device)
+
+> PEFT
 - [Awesome-PEFT-VLM](https://github.com/ustcjinggg/Awesome-PEFT-VLM) ![Commit](https://img.shields.io/github/last-commit/ustcjinggg/Awesome-PEFT-VLM) ![Stars](https://img.shields.io/github/stars/ustcjinggg/Awesome-PEFT-VLM)
 - [awesome-adapter-resources](https://github.com/calpt/awesome-adapter-resources) ![Commit](https://img.shields.io/github/last-commit/calpt/awesome-adapter-resources) ![Stars](https://img.shields.io/github/stars/calpt/awesome-adapter-resources)
-- [Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) ![Commit](https://img.shields.io/github/last-commit/NexaAI/Awesome-LLMs-on-device) ![Stars](https://img.shields.io/github/stars/NexaAI/Awesome-LLMs-on-device)
+
+> Efficient Reasoning
+- [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/awesome-efficient-reasoning-models) ![Commit](https://img.shields.io/github/last-commit/fscdc/awesome-efficient-reasoning-models) ![Stars](https://img.shields.io/github/stars/fscdc/awesome-efficient-reasoning-models)
 - [Awesome-KV-Cache-Compression](https://github.com/October2001/Awesome-KV-Cache-Compression) ![Commit](https://img.shields.io/github/last-commit/October2001/Awesome-KV-Cache-Compression) ![Stars](https://img.shields.io/github/stars/October2001/Awesome-KV-Cache-Compression)
+
+> Compression, Merge, Quantization
 - [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Commit](https://img.shields.io/github/last-commit/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Stars](https://img.shields.io/github/stars/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
-- [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/awesome-efficient-reasoning-models) ![Commit](https://img.shields.io/github/last-commit/fscdc/awesome-efficient-reasoning-models) ![Stars](https://img.shields.io/github/stars/fscdc/awesome-efficient-reasoning-models)
+- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) ![Commit](https://img.shields.io/github/last-commit/HuangOwen/Awesome-LLM-Compression) ![Stars](https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression)
+
   
 # Agents
 

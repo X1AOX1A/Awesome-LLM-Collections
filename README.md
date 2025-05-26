@@ -142,9 +142,9 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-KV-Cache-Compression](https://github.com/October2001/Awesome-KV-Cache-Compression) ![Commit](https://img.shields.io/github/last-commit/October2001/Awesome-KV-Cache-Compression) ![Stars](https://img.shields.io/github/stars/October2001/Awesome-KV-Cache-Compression)
 
 > Compression, Merge, Quantization
+- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) ![Commit](https://img.shields.io/github/last-commit/HuangOwen/Awesome-LLM-Compression) ![Stars](https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression)
 - [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Commit](https://img.shields.io/github/last-commit/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) ![Stars](https://img.shields.io/github/stars/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
-- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) ![Commit](https://img.shields.io/github/last-commit/HuangOwen/Awesome-LLM-Compression) ![Stars](https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression)
 
   
 # Agents

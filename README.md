@@ -59,7 +59,8 @@ A curated repository of resources and tools for Large Language Models.
 > Diffusion
 
 - [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) ![Commit](https://img.shields.io/github/last-commit/wangkai930418/awesome-diffusion-categorized) ![Stars](https://img.shields.io/github/stars/wangkai930418/awesome-diffusion-categorized)
-- [Awesome-Diffusion-Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers/) ![Commit](https://img.shields.io/github/last-commit/ShoufaChen/Awesome-Diffusion-Transformers) ![Stars](https://img.shields.io/github/stars/ShoufaChen/Awesome-Diffusion-Transformers)
+- [Awesome-Diffusion-Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers) ![Commit](https://img.shields.io/github/last-commit/ShoufaChen/Awesome-Diffusion-Transformers) ![Stars](https://img.shields.io/github/stars/ShoufaChen/Awesome-Diffusion-Transformers)
+- [Diffusion-LLM-Papers](https://github.com/ML-GSAI/Diffusion-LLM-Papers) ![Commit](https://img.shields.io/github/last-commit/ML-GSAI/Diffusion-LLM-Papers) ![Stars](https://img.shields.io/github/stars/ML-GSAI/Diffusion-LLM-Papers)
 
 # Data
 

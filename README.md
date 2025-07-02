@@ -29,6 +29,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
 - [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey) ![Commit](https://img.shields.io/github/last-commit/llm-lab-org/Multimodal-RAG-Survey) ![Stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey)
 - [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) ![Commit](https://img.shields.io/github/last-commit/linhuixiao/Awesome-Visual-Grounding) ![Stars](https://img.shields.io/github/stars/linhuixiao/Awesome-Visual-Grounding)
+- [Awesome_Think_With_Images](https://github.com/zhaochen0110/Awesome_Think_With_Images) ![Commit](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images) ![Stars](https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images)
 
 > Time-Series
 

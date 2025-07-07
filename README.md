@@ -167,6 +167,7 @@ A curated repository of resources and tools for Large Language Models.
 > Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks) ![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks)
+- [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ![Commit](https://img.shields.io/github/last-commit/Meirtz/Awesome-Context-Engineering) ![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering)
 
 # Miscellaneous
 

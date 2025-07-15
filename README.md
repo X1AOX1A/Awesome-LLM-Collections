@@ -112,6 +112,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Code-Reasoning](https://github.com/dayuyang1999/Awesome-Code-Reasoning) ![Commit](https://img.shields.io/github/last-commit/dayuyang1999/Awesome-Code-Reasoning) ![Stars](https://img.shields.io/github/stars/dayuyang1999/Awesome-Code-Reasoning)
 - [Awesome-RL-Reasoning-Recipes](https://github.com/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![Commit](https://img.shields.io/github/last-commit/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![Stars](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-Reasoning-Recipes)
 - [awesome-reward-models](https://github.com/JLZhong23/awesome-reward-models) ![Commit](https://img.shields.io/github/last-commit/JLZhong23/awesome-reward-models) ![Stars](https://img.shields.io/github/stars/JLZhong23/awesome-reward-models)
+- [LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon) ![Commit](https://img.shields.io/github/last-commit/multimodal-art-projection/LatentCoT-Horizon) ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/LatentCoT-Horizon)
 
 > Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)

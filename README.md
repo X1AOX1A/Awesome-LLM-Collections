@@ -159,6 +159,8 @@ A curated repository of resources and tools for Large Language Models.
 - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)
 - [awesome-RLAIF](https://github.com/mengdi-li/awesome-RLAIF) ![Commit](https://img.shields.io/github/last-commit/mengdi-li/awesome-RLAIF) ![Stars](https://img.shields.io/github/stars/mengdi-li/awesome-RLAIF)
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) ![Commit](https://img.shields.io/github/last-commit/zhangxjohn/LLM-Agent-Benchmark-List) ![Stars](https://img.shields.io/github/stars/zhangxjohn/LLM-Agent-Benchmark-List)
+- [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) ![Commit](https://img.shields.io/github/last-commit/luo-junyu/Awesome-Agent-Papers) ![Stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers)
+- [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Commit](https://img.shields.io/github/last-commit/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Stars](https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers)
 
 > Scientific Agents
 - [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)

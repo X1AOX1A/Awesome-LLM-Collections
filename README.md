@@ -30,6 +30,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey) ![Commit](https://img.shields.io/github/last-commit/llm-lab-org/Multimodal-RAG-Survey) ![Stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey)
 - [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) ![Commit](https://img.shields.io/github/last-commit/linhuixiao/Awesome-Visual-Grounding) ![Stars](https://img.shields.io/github/stars/linhuixiao/Awesome-Visual-Grounding)
 - [Awesome_Think_With_Images](https://github.com/zhaochen0110/Awesome_Think_With_Images) ![Commit](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images) ![Stars](https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images)
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/yfzhang114/Awesome-Multimodal-Large-Language-Models) ![Commit](https://img.shields.io/github/last-commit/yfzhang114/Awesome-Multimodal-Large-Language-Models) ![Stars](https://img.shields.io/github/stars/yfzhang114/Awesome-Multimodal-Large-Language-Models)
 
 > Time-Series
 

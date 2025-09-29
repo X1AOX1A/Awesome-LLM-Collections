@@ -114,6 +114,7 @@ A curated repository of resources and tools for Large Language Models.
 - [awesome-reward-models](https://github.com/JLZhong23/awesome-reward-models) ![Commit](https://img.shields.io/github/last-commit/JLZhong23/awesome-reward-models) ![Stars](https://img.shields.io/github/stars/JLZhong23/awesome-reward-models)
 - [LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon) ![Commit](https://img.shields.io/github/last-commit/multimodal-art-projection/LatentCoT-Horizon) ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/LatentCoT-Horizon)
 - [Label-Free-RLVR](https://github.com/QingyangZhang/Label-Free-RLVR) ![Commit](https://img.shields.io/github/last-commit/QingyangZhang/Label-Free-RLVR) ![Stars](https://img.shields.io/github/stars/QingyangZhang/Label-Free-RLVR)
+- [Awesome-RL-for-LRMs(https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) ![Commit](https://img.shields.io/github/last-commit/TsinghuaC3I/Awesome-RL-for-LRMs) ![Stars](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-for-LRMs)
 
 > Test-time Scaling
 - [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) ![Commit](https://img.shields.io/github/last-commit/Dereck0602/Awesome_Test_Time_LLMs) ![Stars](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs)

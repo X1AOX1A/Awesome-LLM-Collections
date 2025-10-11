@@ -173,6 +173,7 @@ A curated repository of resources and tools for Large Language Models.
 
 > Memory
 - [Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Commit](https://img.shields.io/github/last-commit/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/Survey_Memory_in_AI)
+- [awesome-agent-memory](https://github.com/cxxz/awesome-agent-memory) ![Commit](https://img.shields.io/github/last-commit/cxxz/awesome-agent-memory) ![Stars](https://img.shields.io/github/stars/cxxz/awesome-agent-memory)
 
 > Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)

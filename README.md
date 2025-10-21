@@ -2,7 +2,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/X1AOX1A/Awesome-LLM-Collections)
-[![Visits Badge](https://badges.pufler.dev/visits/X1AOX1A/Awesome-LLM-Collections)](X1AOX1A/Awesome-LLM-Collections)
 
 A curated repository of resources and tools for Large Language Models.
 
@@ -166,6 +165,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/leofan90/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)
 - [World-Model](https://github.com/tsinghua-fib-lab/World-Model) ![Commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/World-Model) ![Stars](https://img.shields.io/github/stars/tsinghua-fib-lab/World-Model)
 - [Self-Evolving-Agents](https://github.com/CharlesQ9/Self-Evolving-Agents) ![Commit](https://img.shields.io/github/last-commit/CharlesQ9/Self-Evolving-Agents) ![Stars](https://img.shields.io/github/stars/CharlesQ9/Self-Evolving-Agents)
+- [model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai) ![Commit](https://img.shields.io/github/last-commit/ADaM-BJTU/model-native-agentic-ai) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/model-native-agentic-ai)
 
 > Scientific Agents
 - [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)

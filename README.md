@@ -162,10 +162,16 @@ A curated repository of resources and tools for Large Language Models.
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) ![Commit](https://img.shields.io/github/last-commit/zhangxjohn/LLM-Agent-Benchmark-List) ![Stars](https://img.shields.io/github/stars/zhangxjohn/LLM-Agent-Benchmark-List)
 - [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) ![Commit](https://img.shields.io/github/last-commit/luo-junyu/Awesome-Agent-Papers) ![Stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers)
 - [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Commit](https://img.shields.io/github/last-commit/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Stars](https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers)
-- [Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/leofan90/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)
-- [World-Model](https://github.com/tsinghua-fib-lab/World-Model) ![Commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/World-Model) ![Stars](https://img.shields.io/github/stars/tsinghua-fib-lab/World-Model)
 - [Self-Evolving-Agents](https://github.com/CharlesQ9/Self-Evolving-Agents) ![Commit](https://img.shields.io/github/last-commit/CharlesQ9/Self-Evolving-Agents) ![Stars](https://img.shields.io/github/stars/CharlesQ9/Self-Evolving-Agents)
 - [model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai) ![Commit](https://img.shields.io/github/last-commit/ADaM-BJTU/model-native-agentic-ai) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/model-native-agentic-ai)
+
+> World Models
+- [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)
+- [World-Model](https://github.com/tsinghua-fib-lab/World-Model) ![Commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/World-Model) ![Stars](https://img.shields.io/github/stars/tsinghua-fib-lab/World-Model)
+- [Awesome World Models for Robotics](https://github.com/leofan90/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/leofan90/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)
+- [Awesome World Models for Autonomous Driving](https://github.com/LMD0311/Awesome-World-Model) ![Commit](https://img.shields.io/github/last-commit/LMD0311/Awesome-World-Model) ![Stars](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model)
+  
+  
 
 > Scientific Agents
 - [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)

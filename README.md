@@ -137,7 +137,7 @@ A curated repository of resources and tools for Large Language Models.
 > Survey
 - [Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) ![Commit](https://img.shields.io/github/last-commit/AIoT-MLSys-Lab/Efficient-LLMs-Survey) ![Stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) ![Commit](https://img.shields.io/github/last-commit/horseee/Awesome-Efficient-LLM) ![Stars](https://img.shields.io/github/stars/horseee/Awesome-Efficient-LLM)
-- [Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) ![Commit](https://img.shields.io/github/last-commit/LumosJiang/Awesome-LLMs-on-device) ![Stars](https://img.shields.io/github/stars/LumosJiang/Awesome-LLMs-on-device)
+- [Awesome-LLMs-on-device](https://github.com/LumosJiang/Awesome-On-Device-LLMs) ![Commit](https://img.shields.io/github/last-commit/LumosJiang/Awesome-On-Device-LLMs) ![Stars](https://img.shields.io/github/stars/LumosJiang/Awesome-On-Device-LLMs)
 
 > PEFT
 - [Awesome-PEFT-VLM](https://github.com/ustcjinggg/Awesome-PEFT-VLM) ![Commit](https://img.shields.io/github/last-commit/ustcjinggg/Awesome-PEFT-VLM) ![Stars](https://img.shields.io/github/stars/ustcjinggg/Awesome-PEFT-VLM)

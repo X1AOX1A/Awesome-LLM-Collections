@@ -164,6 +164,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Commit](https://img.shields.io/github/last-commit/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Stars](https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers)
 - [Self-Evolving-Agents](https://github.com/CharlesQ9/Self-Evolving-Agents) ![Commit](https://img.shields.io/github/last-commit/CharlesQ9/Self-Evolving-Agents) ![Stars](https://img.shields.io/github/stars/CharlesQ9/Self-Evolving-Agents)
 - [model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai) ![Commit](https://img.shields.io/github/last-commit/ADaM-BJTU/model-native-agentic-ai) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/model-native-agentic-ai)
+- [Awesome-Agent-as-a-Judge](https://github.com/ModalityDance/Awesome-Agent-as-a-Judge) ![Commit](https://img.shields.io/github/last-commit/ModalityDance/Awesome-Agent-as-a-Judge) ![Stars](https://img.shields.io/github/stars/ModalityDance/Awesome-Agent-as-a-Judge)
 
 > World Models
 - [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)

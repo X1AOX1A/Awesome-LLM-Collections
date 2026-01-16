@@ -184,6 +184,7 @@ A curated repository of resources and tools for Large Language Models.
 - [awesome-agent-memory](https://github.com/cxxz/awesome-agent-memory) ![Commit](https://img.shields.io/github/last-commit/cxxz/awesome-agent-memory) ![Stars](https://img.shields.io/github/stars/cxxz/awesome-agent-memory)
 
 > Prompts
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ![Commit](https://img.shields.io/github/last-commit/ComposioHQ/awesome-claude-skills) ![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks) ![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks)
 - [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ![Commit](https://img.shields.io/github/last-commit/Meirtz/Awesome-Context-Engineering) ![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering)

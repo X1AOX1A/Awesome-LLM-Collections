@@ -96,6 +96,45 @@ A curated repository of resources and tools for Large Language Models.
 - [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
 - [awesome-activation-engineering](https://github.com/Zfancy/awesome-activation-engineering) ![Commit](https://img.shields.io/github/last-commit/Zfancy/awesome-activation-engineering) ![Stars](https://img.shields.io/github/stars/Zfancy/awesome-activation-engineering)
 
+
+# Agents
+
+> Agents
+- [Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) ![Commit](https://img.shields.io/github/last-commit/weitianxin/Awesome-Agentic-Reasoning) ![Stars](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning)
+- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) ![Commit](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List) ![Stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)
+- [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)
+- [awesome-RLAIF](https://github.com/mengdi-li/awesome-RLAIF) ![Commit](https://img.shields.io/github/last-commit/mengdi-li/awesome-RLAIF) ![Stars](https://img.shields.io/github/stars/mengdi-li/awesome-RLAIF)
+- [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) ![Commit](https://img.shields.io/github/last-commit/zhangxjohn/LLM-Agent-Benchmark-List) ![Stars](https://img.shields.io/github/stars/zhangxjohn/LLM-Agent-Benchmark-List)
+- [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) ![Commit](https://img.shields.io/github/last-commit/luo-junyu/Awesome-Agent-Papers) ![Stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers)
+- [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Commit](https://img.shields.io/github/last-commit/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Stars](https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers)
+- [Self-Evolving-Agents](https://github.com/CharlesQ9/Self-Evolving-Agents) ![Commit](https://img.shields.io/github/last-commit/CharlesQ9/Self-Evolving-Agents) ![Stars](https://img.shields.io/github/stars/CharlesQ9/Self-Evolving-Agents)
+- [model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai) ![Commit](https://img.shields.io/github/last-commit/ADaM-BJTU/model-native-agentic-ai) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/model-native-agentic-ai)
+- [Awesome-Agent-as-a-Judge](https://github.com/ModalityDance/Awesome-Agent-as-a-Judge) ![Commit](https://img.shields.io/github/last-commit/ModalityDance/Awesome-Agent-as-a-Judge) ![Stars](https://img.shields.io/github/stars/ModalityDance/Awesome-Agent-as-a-Judge)
+- [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) ![Commit](https://img.shields.io/github/last-commit/kyegomez/awesome-multi-agent-papers) ![Stars](https://img.shields.io/github/stars/kyegomez/awesome-multi-agent-papers)
+- [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers) ![Commit](https://img.shields.io/github/last-commit/ventr1c/Awesome-RL-based-Agentic-Search-Papers) ![Stars](https://img.shields.io/github/stars/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
+
+> World Models
+- [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)
+- [World-Model](https://github.com/tsinghua-fib-lab/World-Model) ![Commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/World-Model) ![Stars](https://img.shields.io/github/stars/tsinghua-fib-lab/World-Model)
+- [Awesome World Models for Robotics](https://github.com/leofan90/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/leofan90/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)
+- [Awesome World Models for Autonomous Driving](https://github.com/LMD0311/Awesome-World-Model) ![Commit](https://img.shields.io/github/last-commit/LMD0311/Awesome-World-Model) ![Stars](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model)
+  
+
+> Scientific Agents
+- [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)
+- [LLM4ScientificResearch](https://github.com/du-nlp-lab/LLM4SR) ![Commit](https://img.shields.io/github/last-commit/du-nlp-lab/LLM4SR) ![Stars](https://img.shields.io/github/stars/du-nlp-lab/LLM4SR)
+- [Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) ![Commit](https://img.shields.io/github/last-commit/openags/Awesome-AI-Scientist-Papers) ![Stars](https://img.shields.io/github/stars/openags/Awesome-AI-Scientist-Papers)
+
+> Memory
+- [Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Commit](https://img.shields.io/github/last-commit/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/Survey_Memory_in_AI)
+- [awesome-agent-memory](https://github.com/cxxz/awesome-agent-memory) ![Commit](https://img.shields.io/github/last-commit/cxxz/awesome-agent-memory) ![Stars](https://img.shields.io/github/stars/cxxz/awesome-agent-memory)
+
+> Prompts
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ![Commit](https://img.shields.io/github/last-commit/ComposioHQ/awesome-claude-skills) ![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks) ![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks)
+- [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ![Commit](https://img.shields.io/github/last-commit/Meirtz/Awesome-Context-Engineering) ![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering)
+
 # Reasoning
 
 > CoT / RFT
@@ -153,43 +192,6 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
 
   
-# Agents
-
-> Agents
-- [Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) ![Commit](https://img.shields.io/github/last-commit/weitianxin/Awesome-Agentic-Reasoning) ![Stars](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning)
-- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) ![Commit](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List) ![Stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)
-- [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)
-- [awesome-RLAIF](https://github.com/mengdi-li/awesome-RLAIF) ![Commit](https://img.shields.io/github/last-commit/mengdi-li/awesome-RLAIF) ![Stars](https://img.shields.io/github/stars/mengdi-li/awesome-RLAIF)
-- [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) ![Commit](https://img.shields.io/github/last-commit/zhangxjohn/LLM-Agent-Benchmark-List) ![Stars](https://img.shields.io/github/stars/zhangxjohn/LLM-Agent-Benchmark-List)
-- [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) ![Commit](https://img.shields.io/github/last-commit/luo-junyu/Awesome-Agent-Papers) ![Stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers)
-- [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Commit](https://img.shields.io/github/last-commit/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ![Stars](https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers)
-- [Self-Evolving-Agents](https://github.com/CharlesQ9/Self-Evolving-Agents) ![Commit](https://img.shields.io/github/last-commit/CharlesQ9/Self-Evolving-Agents) ![Stars](https://img.shields.io/github/stars/CharlesQ9/Self-Evolving-Agents)
-- [model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai) ![Commit](https://img.shields.io/github/last-commit/ADaM-BJTU/model-native-agentic-ai) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/model-native-agentic-ai)
-- [Awesome-Agent-as-a-Judge](https://github.com/ModalityDance/Awesome-Agent-as-a-Judge) ![Commit](https://img.shields.io/github/last-commit/ModalityDance/Awesome-Agent-as-a-Judge) ![Stars](https://img.shields.io/github/stars/ModalityDance/Awesome-Agent-as-a-Judge)
-- [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) ![Commit](https://img.shields.io/github/last-commit/kyegomez/awesome-multi-agent-papers) ![Stars](https://img.shields.io/github/stars/kyegomez/awesome-multi-agent-papers)
-
-> World Models
-- [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)
-- [World-Model](https://github.com/tsinghua-fib-lab/World-Model) ![Commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/World-Model) ![Stars](https://img.shields.io/github/stars/tsinghua-fib-lab/World-Model)
-- [Awesome World Models for Robotics](https://github.com/leofan90/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/leofan90/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)
-- [Awesome World Models for Autonomous Driving](https://github.com/LMD0311/Awesome-World-Model) ![Commit](https://img.shields.io/github/last-commit/LMD0311/Awesome-World-Model) ![Stars](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model)
-  
-  
-
-> Scientific Agents
-- [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Commit](https://img.shields.io/github/last-commit/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) ![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)
-- [LLM4ScientificResearch](https://github.com/du-nlp-lab/LLM4SR) ![Commit](https://img.shields.io/github/last-commit/du-nlp-lab/LLM4SR) ![Stars](https://img.shields.io/github/stars/du-nlp-lab/LLM4SR)
-- [Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) ![Commit](https://img.shields.io/github/last-commit/openags/Awesome-AI-Scientist-Papers) ![Stars](https://img.shields.io/github/stars/openags/Awesome-AI-Scientist-Papers)
-
-> Memory
-- [Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Commit](https://img.shields.io/github/last-commit/Elvin-Yiming-Du/Survey_Memory_in_AI) ![Stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/Survey_Memory_in_AI)
-- [awesome-agent-memory](https://github.com/cxxz/awesome-agent-memory) ![Commit](https://img.shields.io/github/last-commit/cxxz/awesome-agent-memory) ![Stars](https://img.shields.io/github/stars/cxxz/awesome-agent-memory)
-
-> Prompts
-- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ![Commit](https://img.shields.io/github/last-commit/ComposioHQ/awesome-claude-skills) ![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ![Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts) ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)
-- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks) ![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks)
-- [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ![Commit](https://img.shields.io/github/last-commit/Meirtz/Awesome-Context-Engineering) ![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering)
 
 # Miscellaneous
 

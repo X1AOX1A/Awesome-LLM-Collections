@@ -5,98 +5,6 @@
 
 A curated repository of resources and tools for Large Language Models.
 
-
-# LLMs
-
-> LLMs
-
-- [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ![Commit](https://img.shields.io/github/last-commit/RUCAIBox/LLMSurvey) ![Stars](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey)
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM) ![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM)
-
-> Multi-Modal
-
-- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) [[Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)][[Benchmarks](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)][[Datasets](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Datasets)][[Evaluation](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]![Commit](https://img.shields.io/github/last-commit/BradyFU/Awesome-Multimodal-Large-Language-Models) ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
-- [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ![Commit](https://img.shields.io/github/last-commit/awaisrauf/Awesome-CV-Foundational-Models) ![Stars](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models)
-- [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ![Commit](https://img.shields.io/github/last-commit/yunlong10/Awesome-LLMs-for-Video-Understanding) ![Stars](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding)
-- [Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) ![Commit](https://img.shields.io/github/last-commit/swordlidev/Evaluation-Multimodal-LLMs-Survey) ![Stars](https://img.shields.io/github/stars/swordlidev/Evaluation-Multimodal-LLMs-Survey)
-- [VLM-surveys](https://github.com/zli12321/VLM-surveys) ![Commit](https://img.shields.io/github/last-commit/zli12321/VLM-surveys) ![Stars](https://img.shields.io/github/stars/zli12321/VLM-surveys)
-- [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) ![Commit](https://img.shields.io/github/last-commit/friedrichor/Awesome-Multimodal-Papers) ![Stars](https://img.shields.io/github/stars/friedrichor/Awesome-Multimodal-Papers)
-- [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) ![Commit](https://img.shields.io/github/last-commit/pliang279/awesome-multimodal-ml) ![Stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml)
-- [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination)
-- [Awesome-Unified-Multimodal](https://github.com/Purshow/Awesome-Unified-Multimodal) ![Commit](https://img.shields.io/github/last-commit/Purshow/Awesome-Unified-Multimodal) ![Stars](https://img.shields.io/github/stars/Purshow/Awesome-Unified-Multimodal)
-- [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models)
-- [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
-- [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey) ![Commit](https://img.shields.io/github/last-commit/llm-lab-org/Multimodal-RAG-Survey) ![Stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey)
-- [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) ![Commit](https://img.shields.io/github/last-commit/linhuixiao/Awesome-Visual-Grounding) ![Stars](https://img.shields.io/github/stars/linhuixiao/Awesome-Visual-Grounding)
-- [Awesome_Think_With_Images](https://github.com/zhaochen0110/Awesome_Think_With_Images) ![Commit](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images) ![Stars](https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images)
-- [Awesome-Multimodal-Large-Language-Models](https://github.com/yfzhang114/Awesome-Multimodal-Large-Language-Models) ![Commit](https://img.shields.io/github/last-commit/yfzhang114/Awesome-Multimodal-Large-Language-Models) ![Stars](https://img.shields.io/github/stars/yfzhang114/Awesome-Multimodal-Large-Language-Models)
-
-> Time-Series
-
-- [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ![Commit](https://img.shields.io/github/last-commit/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ![Stars](https://img.shields.io/github/stars/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
-- [Awesome-Large-Models-for-Time-Series](https://github.com/SJTU-DMTai/Awesome-Large-Models-for-Time-Series) ![Commit](https://img.shields.io/github/last-commit/SJTU-DMTai/Awesome-Large-Models-for-Time-Series) ![Stars](https://img.shields.io/github/stars/SJTU-DMTai/Awesome-Large-Models-for-Time-Series)
-- [LLM4TS](https://github.com/liaoyuhua/LLM4TS) ![Commit](https://img.shields.io/github/last-commit/liaoyuhua/LLM4TS) ![Stars](https://img.shields.io/github/stars/liaoyuhua/LLM4TS)
-- [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ![Commit](https://img.shields.io/github/last-commit/qingsongedu/awesome-AI-for-time-series-papers) ![Stars](https://img.shields.io/github/stars/qingsongedu/awesome-AI-for-time-series-papers)
-
-> Speech
-
-- [speech-trident](https://github.com/ga642381/speech-trident) ![Commit](https://img.shields.io/github/last-commit/ga642381/speech-trident) ![Stars](https://img.shields.io/github/stars/ga642381/speech-trident)
-- [Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models) ![Commit](https://img.shields.io/github/last-commit/liusongxiang/Large-Audio-Models) ![Stars](https://img.shields.io/github/stars/liusongxiang/Large-Audio-Models)
-
-> Multi-Lingual & Translation
-
-- [Awesome-LLM-MT](https://github.com/hsing-wang/Awesome-LLM-MT) ![Commit](https://img.shields.io/github/last-commit/hsing-wang/Awesome-LLM-MT) ![Stars](https://img.shields.io/github/stars/hsing-wang/Awesome-LLM-MT)
-- [Awesome-Multilingual-LLM](https://github.com/LightChen233/Awesome-Multilingual-LLM) ![Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-Multilingual-LLM) ![Stars](https://img.shields.io/github/stars/LightChen233/Awesome-Multilingual-LLM)
-
-> Code
-
-- [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) ![Commit](https://img.shields.io/github/last-commit/codefuse-ai/Awesome-Code-LLM) ![Stars](https://img.shields.io/github/stars/codefuse-ai/Awesome-Code-LLM)
-- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) ![Commit](https://img.shields.io/github/last-commit/huybery/Awesome-Code-LLM) ![Stars](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM)
-
-> Math
-
-- [Awesome-LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math) ![Commit](https://img.shields.io/github/last-commit/tongyx361/Awesome-LLM4Math) ![Stars](https://img.shields.io/github/stars/tongyx361/Awesome-LLM4Math)
-
-> Diffusion
-
-- [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) ![Commit](https://img.shields.io/github/last-commit/wangkai930418/awesome-diffusion-categorized) ![Stars](https://img.shields.io/github/stars/wangkai930418/awesome-diffusion-categorized)
-- [Awesome-Diffusion-Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers) ![Commit](https://img.shields.io/github/last-commit/ShoufaChen/Awesome-Diffusion-Transformers) ![Stars](https://img.shields.io/github/stars/ShoufaChen/Awesome-Diffusion-Transformers)
-- [Diffusion-LLM-Papers](https://github.com/ML-GSAI/Diffusion-LLM-Papers) ![Commit](https://img.shields.io/github/last-commit/ML-GSAI/Diffusion-LLM-Papers) ![Stars](https://img.shields.io/github/stars/ML-GSAI/Diffusion-LLM-Papers)
-- [DLLM-Survey](https://github.com/LiQiiiii/DLLM-Survey) ![Commit](https://img.shields.io/github/last-commit/LiQiiiii/DLLM-Survey) ![Stars](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey)
-
-# Data
-
-- [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ![Commit](https://img.shields.io/github/last-commit/yaodongC/awesome-instruction-dataset) ![Stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset)
-- [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ![Commit](https://img.shields.io/github/last-commit/lmmlzn/Awesome-LLMs-Datasets) ![Stars](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets)
-- [LLM4Annotation](https://github.com/Zhen-Tan-dmml/LLM4Annotation) ![Commit](https://img.shields.io/github/last-commit/Zhen-Tan-dmml/LLM4Annotation) ![Stars](https://img.shields.io/github/stars/Zhen-Tan-dmml/LLM4Annotation)
-- [awesome-instruction-selector](https://github.com/Bolin97/awesome-instruction-selector) ![Commit](https://img.shields.io/github/last-commit/Bolin97/awesome-instruction-selector) ![Stars](https://img.shields.io/github/stars/Bolin97/awesome-instruction-selector)
-- [data-selection-survey](https://github.com/alon-albalak/data-selection-survey) ![Commit](https://img.shields.io/github/last-commit/alon-albalak/data-selection-survey) ![Stars](https://img.shields.io/github/stars/alon-albalak/data-selection-survey)
-- [llm-datasets](https://github.com/mlabonne/llm-datasets) ![Commit](https://img.shields.io/github/last-commit/mlabonne/llm-datasets) ![Stars](https://img.shields.io/github/stars/mlabonne/llm-datasets)
-- [fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering) ![Commit](https://img.shields.io/github/last-commit/yuleiqin/fantastic-data-engineering) ![Stars](https://img.shields.io/github/stars/yuleiqin/fantastic-data-engineering)
-- [data_management_LLM](https://github.com/ZigeW/data_management_LLM) ![Commit](https://img.shields.io/github/last-commit/ZigeW/data_management_LLM) ![Stars](https://img.shields.io/github/stars/ZigeW/data_management_LLM)
-
-# Training
-
-> Instruction-Tuning
-
-- [awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning) ![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning) ![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning)
-
-> Alignment
-
-- [Awesome-LLM-Preference-Learning](https://github.com/KbsdJames/Awesome-LLM-Preference-Learning) ![Commit](https://img.shields.io/github/last-commit/KbsdJames/Awesome-LLM-Preference-Learning) ![Stars](https://img.shields.io/github/stars/KbsdJames/Awesome-LLM-Preference-Learning)
-
-> Post Training
-
-- [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) ![Commit](https://img.shields.io/github/last-commit/mbzuai-oryx/Awesome-LLM-Post-training) ![Stars](https://img.shields.io/github/stars/mbzuai-oryx/Awesome-LLM-Post-training)
-
-
-# Decoding
-
-- [CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/CTGSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/CTGSurvey)
-- [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
-- [awesome-activation-engineering](https://github.com/Zfancy/awesome-activation-engineering) ![Commit](https://img.shields.io/github/last-commit/Zfancy/awesome-activation-engineering) ![Stars](https://img.shields.io/github/stars/Zfancy/awesome-activation-engineering)
-
-
 # Agents
 
 > Agents
@@ -192,6 +100,97 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) ![Commit](https://img.shields.io/github/last-commit/pprp/Awesome-LLM-Quantization) ![Stars](https://img.shields.io/github/stars/pprp/Awesome-LLM-Quantization)
 
   
+
+# LLMs
+
+> LLMs
+
+- [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ![Commit](https://img.shields.io/github/last-commit/RUCAIBox/LLMSurvey) ![Stars](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM) ![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM)
+
+> Multi-Modal
+
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) [[Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)][[Benchmarks](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)][[Datasets](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Datasets)][[Evaluation](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]![Commit](https://img.shields.io/github/last-commit/BradyFU/Awesome-Multimodal-Large-Language-Models) ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ![Commit](https://img.shields.io/github/last-commit/awaisrauf/Awesome-CV-Foundational-Models) ![Stars](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models)
+- [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ![Commit](https://img.shields.io/github/last-commit/yunlong10/Awesome-LLMs-for-Video-Understanding) ![Stars](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding)
+- [Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) ![Commit](https://img.shields.io/github/last-commit/swordlidev/Evaluation-Multimodal-LLMs-Survey) ![Stars](https://img.shields.io/github/stars/swordlidev/Evaluation-Multimodal-LLMs-Survey)
+- [VLM-surveys](https://github.com/zli12321/VLM-surveys) ![Commit](https://img.shields.io/github/last-commit/zli12321/VLM-surveys) ![Stars](https://img.shields.io/github/stars/zli12321/VLM-surveys)
+- [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) ![Commit](https://img.shields.io/github/last-commit/friedrichor/Awesome-Multimodal-Papers) ![Stars](https://img.shields.io/github/stars/friedrichor/Awesome-Multimodal-Papers)
+- [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) ![Commit](https://img.shields.io/github/last-commit/pliang279/awesome-multimodal-ml) ![Stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml)
+- [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination)
+- [Awesome-Unified-Multimodal](https://github.com/Purshow/Awesome-Unified-Multimodal) ![Commit](https://img.shields.io/github/last-commit/Purshow/Awesome-Unified-Multimodal) ![Stars](https://img.shields.io/github/stars/Purshow/Awesome-Unified-Multimodal)
+- [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![Commit](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models)
+- [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
+- [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey) ![Commit](https://img.shields.io/github/last-commit/llm-lab-org/Multimodal-RAG-Survey) ![Stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey)
+- [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) ![Commit](https://img.shields.io/github/last-commit/linhuixiao/Awesome-Visual-Grounding) ![Stars](https://img.shields.io/github/stars/linhuixiao/Awesome-Visual-Grounding)
+- [Awesome_Think_With_Images](https://github.com/zhaochen0110/Awesome_Think_With_Images) ![Commit](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images) ![Stars](https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images)
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/yfzhang114/Awesome-Multimodal-Large-Language-Models) ![Commit](https://img.shields.io/github/last-commit/yfzhang114/Awesome-Multimodal-Large-Language-Models) ![Stars](https://img.shields.io/github/stars/yfzhang114/Awesome-Multimodal-Large-Language-Models)
+
+> Time-Series
+
+- [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ![Commit](https://img.shields.io/github/last-commit/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ![Stars](https://img.shields.io/github/stars/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
+- [Awesome-Large-Models-for-Time-Series](https://github.com/SJTU-DMTai/Awesome-Large-Models-for-Time-Series) ![Commit](https://img.shields.io/github/last-commit/SJTU-DMTai/Awesome-Large-Models-for-Time-Series) ![Stars](https://img.shields.io/github/stars/SJTU-DMTai/Awesome-Large-Models-for-Time-Series)
+- [LLM4TS](https://github.com/liaoyuhua/LLM4TS) ![Commit](https://img.shields.io/github/last-commit/liaoyuhua/LLM4TS) ![Stars](https://img.shields.io/github/stars/liaoyuhua/LLM4TS)
+- [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ![Commit](https://img.shields.io/github/last-commit/qingsongedu/awesome-AI-for-time-series-papers) ![Stars](https://img.shields.io/github/stars/qingsongedu/awesome-AI-for-time-series-papers)
+
+> Speech
+
+- [speech-trident](https://github.com/ga642381/speech-trident) ![Commit](https://img.shields.io/github/last-commit/ga642381/speech-trident) ![Stars](https://img.shields.io/github/stars/ga642381/speech-trident)
+- [Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models) ![Commit](https://img.shields.io/github/last-commit/liusongxiang/Large-Audio-Models) ![Stars](https://img.shields.io/github/stars/liusongxiang/Large-Audio-Models)
+
+> Multi-Lingual & Translation
+
+- [Awesome-LLM-MT](https://github.com/hsing-wang/Awesome-LLM-MT) ![Commit](https://img.shields.io/github/last-commit/hsing-wang/Awesome-LLM-MT) ![Stars](https://img.shields.io/github/stars/hsing-wang/Awesome-LLM-MT)
+- [Awesome-Multilingual-LLM](https://github.com/LightChen233/Awesome-Multilingual-LLM) ![Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-Multilingual-LLM) ![Stars](https://img.shields.io/github/stars/LightChen233/Awesome-Multilingual-LLM)
+
+> Code
+
+- [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) ![Commit](https://img.shields.io/github/last-commit/codefuse-ai/Awesome-Code-LLM) ![Stars](https://img.shields.io/github/stars/codefuse-ai/Awesome-Code-LLM)
+- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) ![Commit](https://img.shields.io/github/last-commit/huybery/Awesome-Code-LLM) ![Stars](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM)
+
+> Math
+
+- [Awesome-LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math) ![Commit](https://img.shields.io/github/last-commit/tongyx361/Awesome-LLM4Math) ![Stars](https://img.shields.io/github/stars/tongyx361/Awesome-LLM4Math)
+
+> Diffusion
+
+- [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) ![Commit](https://img.shields.io/github/last-commit/wangkai930418/awesome-diffusion-categorized) ![Stars](https://img.shields.io/github/stars/wangkai930418/awesome-diffusion-categorized)
+- [Awesome-Diffusion-Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers) ![Commit](https://img.shields.io/github/last-commit/ShoufaChen/Awesome-Diffusion-Transformers) ![Stars](https://img.shields.io/github/stars/ShoufaChen/Awesome-Diffusion-Transformers)
+- [Diffusion-LLM-Papers](https://github.com/ML-GSAI/Diffusion-LLM-Papers) ![Commit](https://img.shields.io/github/last-commit/ML-GSAI/Diffusion-LLM-Papers) ![Stars](https://img.shields.io/github/stars/ML-GSAI/Diffusion-LLM-Papers)
+- [DLLM-Survey](https://github.com/LiQiiiii/DLLM-Survey) ![Commit](https://img.shields.io/github/last-commit/LiQiiiii/DLLM-Survey) ![Stars](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey)
+
+# Data
+
+- [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ![Commit](https://img.shields.io/github/last-commit/yaodongC/awesome-instruction-dataset) ![Stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset)
+- [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ![Commit](https://img.shields.io/github/last-commit/lmmlzn/Awesome-LLMs-Datasets) ![Stars](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets)
+- [LLM4Annotation](https://github.com/Zhen-Tan-dmml/LLM4Annotation) ![Commit](https://img.shields.io/github/last-commit/Zhen-Tan-dmml/LLM4Annotation) ![Stars](https://img.shields.io/github/stars/Zhen-Tan-dmml/LLM4Annotation)
+- [awesome-instruction-selector](https://github.com/Bolin97/awesome-instruction-selector) ![Commit](https://img.shields.io/github/last-commit/Bolin97/awesome-instruction-selector) ![Stars](https://img.shields.io/github/stars/Bolin97/awesome-instruction-selector)
+- [data-selection-survey](https://github.com/alon-albalak/data-selection-survey) ![Commit](https://img.shields.io/github/last-commit/alon-albalak/data-selection-survey) ![Stars](https://img.shields.io/github/stars/alon-albalak/data-selection-survey)
+- [llm-datasets](https://github.com/mlabonne/llm-datasets) ![Commit](https://img.shields.io/github/last-commit/mlabonne/llm-datasets) ![Stars](https://img.shields.io/github/stars/mlabonne/llm-datasets)
+- [fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering) ![Commit](https://img.shields.io/github/last-commit/yuleiqin/fantastic-data-engineering) ![Stars](https://img.shields.io/github/stars/yuleiqin/fantastic-data-engineering)
+- [data_management_LLM](https://github.com/ZigeW/data_management_LLM) ![Commit](https://img.shields.io/github/last-commit/ZigeW/data_management_LLM) ![Stars](https://img.shields.io/github/stars/ZigeW/data_management_LLM)
+
+# Training
+
+> Instruction-Tuning
+
+- [awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning) ![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning) ![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning)
+
+> Alignment
+
+- [Awesome-LLM-Preference-Learning](https://github.com/KbsdJames/Awesome-LLM-Preference-Learning) ![Commit](https://img.shields.io/github/last-commit/KbsdJames/Awesome-LLM-Preference-Learning) ![Stars](https://img.shields.io/github/stars/KbsdJames/Awesome-LLM-Preference-Learning)
+
+> Post Training
+
+- [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) ![Commit](https://img.shields.io/github/last-commit/mbzuai-oryx/Awesome-LLM-Post-training) ![Stars](https://img.shields.io/github/stars/mbzuai-oryx/Awesome-LLM-Post-training)
+
+
+# Decoding
+
+- [CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) ![Commit](https://img.shields.io/github/last-commit/IAAR-Shanghai/CTGSurvey) ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/CTGSurvey)
+- [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) ![Commit](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers) ![Stars](https://img.shields.io/github/stars/hemingkx/SpeculativeDecodingPapers)
+- [awesome-activation-engineering](https://github.com/Zfancy/awesome-activation-engineering) ![Commit](https://img.shields.io/github/last-commit/Zfancy/awesome-activation-engineering) ![Stars](https://img.shields.io/github/stars/Zfancy/awesome-activation-engineering)
+
 
 # Miscellaneous
 

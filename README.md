@@ -20,6 +20,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Agent-as-a-Judge](https://github.com/ModalityDance/Awesome-Agent-as-a-Judge) ![Commit](https://img.shields.io/github/last-commit/ModalityDance/Awesome-Agent-as-a-Judge) ![Stars](https://img.shields.io/github/stars/ModalityDance/Awesome-Agent-as-a-Judge)
 - [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) ![Commit](https://img.shields.io/github/last-commit/kyegomez/awesome-multi-agent-papers) ![Stars](https://img.shields.io/github/stars/kyegomez/awesome-multi-agent-papers)
 - [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers) ![Commit](https://img.shields.io/github/last-commit/ventr1c/Awesome-RL-based-Agentic-Search-Papers) ![Stars](https://img.shields.io/github/stars/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
+- [awesome-computer-use-agents](https://github.com/cdxeve/awesome-computer-use-agents) ![Commit](https://img.shields.io/github/last-commit/cdxeve/awesome-computer-use-agents) ![Stars](https://img.shields.io/github/stars/cdxeve/awesome-computer-use-agents)
 
 > World Models
 - [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)

@@ -22,6 +22,7 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers) ![Commit](https://img.shields.io/github/last-commit/ventr1c/Awesome-RL-based-Agentic-Search-Papers) ![Stars](https://img.shields.io/github/stars/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
 - [awesome-computer-use-agents](https://github.com/cdxeve/awesome-computer-use-agents) ![Commit](https://img.shields.io/github/last-commit/cdxeve/awesome-computer-use-agents) ![Stars](https://img.shields.io/github/stars/cdxeve/awesome-computer-use-agents)
 - [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![Commit](https://img.shields.io/github/last-commit/walkinglabs/awesome-harness-engineering) ![Stars](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering)
+- [awesome-autoresearch](https://github.com/yibie/awesome-autoresearch) ![Commit](https://img.shields.io/github/last-commit/yibie/awesome-autoresearch) ![Stars](https://img.shields.io/github/stars/yibie/awesome-autoresearch)
 
 > World Models
 - [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)

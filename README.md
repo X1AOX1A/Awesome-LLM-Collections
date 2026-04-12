@@ -205,5 +205,5 @@ A curated repository of resources and tools for Large Language Models.
 - [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) ![Commit](https://img.shields.io/github/last-commit/yueliu1999/Awesome-Jailbreak-on-LLMs) ![Stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs)
 - [hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) ![Commit](https://img.shields.io/github/last-commit/vectara/hallucination-leaderboard) ![Stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard)
 - [LM-Polygraph: Uncertainty estimation for LLMs](https://github.com/IINemo/lm-polygraph) ![Commit](https://img.shields.io/github/last-commit/IINemo/lm-polygraph) ![Stars](https://img.shields.io/github/stars/IINemo/lm-polygraph)
-
+- [awesome-llm-diversity](https://github.com/YichenZW/awesome-llm-diversity) ![Commit](https://img.shields.io/github/last-commit/YichenZW/awesome-llm-diversity) ![Stars](https://img.shields.io/github/stars/YichenZW/awesome-llm-diversity)
 

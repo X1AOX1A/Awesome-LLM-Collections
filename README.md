@@ -8,6 +8,7 @@ A curated repository of resources and tools for Large Language Models.
 # Agents
 
 > Agents
+- [Awesome-Self-Evolving-Agents](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents) ![Commit](https://img.shields.io/github/last-commit/XMUDeepLIT/Awesome-Self-Evolving-Agents) ![Stars](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)
 - [Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) ![Commit](https://img.shields.io/github/last-commit/weitianxin/Awesome-Agentic-Reasoning) ![Stars](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning)
 - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) ![Commit](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List) ![Stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)
 - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) ![Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers) ![Stars](https://img.shields.io/github/stars/zjunlp/LLMAgentPapers)

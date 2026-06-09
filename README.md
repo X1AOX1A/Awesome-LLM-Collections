@@ -26,6 +26,7 @@ A curated repository of resources and tools for Large Language Models.
 - [awesome-autoresearch](https://github.com/yibie/awesome-autoresearch) ![Commit](https://img.shields.io/github/last-commit/yibie/awesome-autoresearch) ![Stars](https://img.shields.io/github/stars/yibie/awesome-autoresearch)
 
 > World Models
+- [awesome-text-world-models](https://github.com/sustech-nlp/awesome-text-world-models) ![Commit](https://img.shields.io/github/last-commit/sustech-nlp/awesome-text-world-models) ![Stars](https://img.shields.io/github/stars/sustech-nlp/awesome-text-world-models)
 - [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/knightnemo/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)
 - [World-Model](https://github.com/tsinghua-fib-lab/World-Model) ![Commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/World-Model) ![Stars](https://img.shields.io/github/stars/tsinghua-fib-lab/World-Model)
 - [Awesome World Models for Robotics](https://github.com/leofan90/Awesome-World-Models) ![Commit](https://img.shields.io/github/last-commit/leofan90/Awesome-World-Models) ![Stars](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)
